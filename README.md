@@ -1,4 +1,4 @@
 <!-- ========== TÌTULO ==========-->
 <h1 align="center">
-  ESTEBAN GONZÁLEZ OSSO
+  <span style="color:#0b5fff;">ESTEBAN GONZÁLEZ OSSO</span>
 </h1>
