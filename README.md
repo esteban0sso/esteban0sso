@@ -51,13 +51,6 @@
     <b>Excel</b>
   </div>
 
-  <!-- Power Query -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_Query_Logo.png" width="50"/>
-    <br>
-    <b>Power Query</b>
-  </div>
-
   <!-- SQL -->
   <div style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50"/>
