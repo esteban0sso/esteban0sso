@@ -32,22 +32,32 @@
 <h2 align="center">🛠 Herramientas</h2>
 
 <p align="center">
+  <!-- Power BI -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="45"/>
+
   &nbsp;&nbsp;&nbsp;
+
+  <!-- Excel -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="45"/>
+
   &nbsp;&nbsp;&nbsp;
+
+  <!-- SQL (PostgreSQL como referencia) -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" width="45"/>
+
   &nbsp;&nbsp;&nbsp;
+
+  <!-- Python -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="45"/>
 </p>
 
 <p align="center">
   <b>Power BI</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Excel</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <b>SQL</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Python</b>
 </p>
 
