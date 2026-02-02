@@ -29,28 +29,29 @@
 
 
 <!-- ===== Herramientas =====-->
-<h2 align="center">
-  🛠 Herramientas
-</h2>
+<h2 align="center">🛠 Herramientas</h2>
 
-<!-- Logos horizontales -->
 <table align="center">
   <tr>
-    <!-- Power BI -->
     <td align="center" width="120">
       <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
       <br><b>Power BI</b>
     </td>
 
-    <!-- Excel -->
     <td align="center" width="120">
       <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
       <br><b>Excel</b>
     </td>
 
-    <!-- SQL -->
     <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width
+      <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50"/>
+      <br><b>SQL</b>
+    </td>
 
-</p>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/>
+      <br><b>Python</b>
+    </td>
+  </tr>
+</table>
 
