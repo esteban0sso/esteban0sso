@@ -27,48 +27,30 @@
 <p></p>
 
 
+
 <!-- ===== Herramientas =====-->
 <h2 align="center">
   🛠 Herramientas
 </h2>
 
-<!-- Contenedor de herramientas -->
-<p align="center">
+<!-- Logos horizontales -->
+<table align="center">
+  <tr>
+    <!-- Power BI -->
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
+      <br><b>Power BI</b>
+    </td>
 
-  <!-- Power BI -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
-    <br>
-    <b>Power BI</b>
-  </div>
+    <!-- Excel -->
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
+      <br><b>Excel</b>
+    </td>
 
-  <!-- Excel -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
-    <br>
-    <b>Excel</b>
-  </div>
-
-  <!-- Power Query -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_Query_Logo.png" width="50"/>
-    <br>
-    <b>Power Query</b>
-  </div>
-
-  <!-- SQL -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50"/>
-    <br>
-    <b>SQL</b>
-  </div>
-
-  <!-- Python -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/>
-    <br>
-    <b>Python</b>
-  </div>
+    <!-- SQL -->
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width
 
 </p>
 
