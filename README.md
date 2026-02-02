@@ -9,6 +9,7 @@
 <h3 align="center">
   <span style="color:#0b5fff;">Data Analyst | Business Intelligence</span>
 </h3>
+<br>
 
 
 
@@ -16,6 +17,7 @@
 <p align="center">
   Transformo los datos de tu empresa en decisiones estratégicas que te permiten <b>reducir costos</b>, <b>optimizar tiempos</b>, <b>perfilar clientes</b> y <b>mejorar su rentabilidad</b>.
 </p>
+<br>
 
 <p align="center">
   No solo creo dashboards útiles y visualmente atractivos. También me encargo de analizar tu modelo de negocio e identificar cómo el análisis de datos puede ayudarte a tomar mejores decisiones y obtener mejores resultados.
