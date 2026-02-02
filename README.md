@@ -32,20 +32,43 @@
   🛠 Herramientas
 </h2>
 
-<!-- Logos + nombres en badges -->
+<!-- Contenedor de herramientas -->
 <p align="center">
+
   <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <div style="display:inline-block; margin:15px; text-align:center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
+    <br>
+    <b>Power BI</b>
+  </div>
 
   <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <div style="display:inline-block; margin:15px; text-align:center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
+    <br>
+    <b>Excel</b>
+  </div>
 
   <!-- Power Query -->
-  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <div style="display:inline-block; margin:15px; text-align:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_Query_Logo.png" width="50"/>
+    <br>
+    <b>Power Query</b>
+  </div>
 
   <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <div style="display:inline-block; margin:15px; text-align:center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50"/>
+    <br>
+    <b>SQL</b>
+  </div>
 
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <div style="display:inline-block; margin:15px; text-align:center;">
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/>
+    <br>
+    <b>Python</b>
+  </div>
+
 </p>
+
