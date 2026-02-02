@@ -34,36 +34,39 @@
   🛠 Herramientas
 </h2>
 
-<!-- Contenedor de herramientas -->
+<!-- ===== Herramientas =====-->
+<h2 align="center">🛠 Herramientas</h2>
+
+<!-- Contenedor horizontal -->
 <p align="center">
 
   <!-- Power BI -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
     <br>
     <b>Power BI</b>
-  </div>
+  </span>
 
   <!-- Excel -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
     <br>
     <b>Excel</b>
-  </div>
+  </span>
 
   <!-- SQL -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50"/>
     <br>
     <b>SQL</b>
-  </div>
+  </span>
 
   <!-- Python -->
-  <div style="display:inline-block; margin:15px; text-align:center;">
+  <span style="display:inline-block; margin:15px; text-align:center;">
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/>
     <br>
     <b>Python</b>
-  </div>
+  </span>
 
 </p>
 
