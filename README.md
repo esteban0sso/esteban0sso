@@ -31,27 +31,23 @@
 <!-- ===== Herramientas =====-->
 <h2 align="center">🛠 Herramientas</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50"/>
-      <br><b>Power BI</b>
-    </td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="45"/>
+</p>
 
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
-      <br><b>Excel</b>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50"/>
-      <br><b>SQL</b>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/>
-      <br><b>Python</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Power BI</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Excel</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>SQL</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b>
+</p>
 
